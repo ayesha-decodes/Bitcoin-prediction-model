@@ -18,7 +18,6 @@ This project applies data preprocessing, exploratory data analysis (EDA), and ma
 - Visualize price trends and correlations  
 - Apply predictive modeling techniques  
 - Evaluate model performance and accuracy  
-- Generate future price predictions  
 
 ---
 

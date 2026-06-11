@@ -1,6 +1,6 @@
 # 🪙 Bitcoin Price Prediction
 
-This project focuses on predicting Bitcoin prices using data-driven techniques and machine learning. The goal is to analyze historical Bitcoin market data, visualize patterns, and build a predictive model capable of forecasting future price movements.
+This project focuses on predicting Bitcoin prices using data-driven techniques and machine learning. The goal is to analyze historical Bitcoin market data, visualize patterns, and build a predictive model capable of forecasting future prices.
 
 ---
 
